@@ -7,7 +7,7 @@ const Contador = () => {
   return (
     <div>
       <p>You clicked {count} times</p>
-      <button onClick={() => setCount(count + 2)}>
+      <button onClick={() => setCount(count + 3)}>
         Click me
       </button>
     </div>
